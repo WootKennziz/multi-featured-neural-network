@@ -1,0 +1,19 @@
+# This is the required components to run Start.ipynb correctly using all provided components as of 2024-05-13
+# This document is not tested and may require more libraries than the ones provided (including Jupyter Notebook and all its sub-libraries)
+
+matplotlib
+numpy
+pandas
+python >= 3.10.*
+scikit-learn
+tqdm
+
+
+# My version setup
+
+# matplotlib == 3.8.2
+# numpy == 1.26.4
+# pandas == 2.2.0
+# python == 3.12.2
+# scikit-learn == 1.4.0
+# tqdm == 4.64.1
